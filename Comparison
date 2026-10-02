@@ -1,0 +1,1 @@
+The predicted and actual results were generally similar, with only minor differences due to hardware limitations and measurement variations. The output increased proportionally to the input value. The experiment demonstrated the ESP32's ability to read analog signals, control PWM, and generate various DAC voltages.
